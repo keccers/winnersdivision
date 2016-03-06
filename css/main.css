@@ -149,6 +149,18 @@ body {
     max-width: 40px;
 }
 
+#contact-email {
+    display: block;
+    font-size: .7em;
+    margin: 40px 0 0 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#contact-email a, a:active, a:visited, a:hover {
+    color: #000;
+}
+
 
 
 
