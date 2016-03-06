@@ -150,6 +150,7 @@ body {
 }
 
 #contact-email {
+    color: #000;
     display: block;
     font-size: .7em;
     margin: 40px 0 0 0;
