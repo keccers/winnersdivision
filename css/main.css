@@ -129,6 +129,7 @@ body {
     height: 40px;
     display: inline;
     letter-spacing: 1px;
+    line-height: 40px;
     margin-right: -5px;
     width: 70%;
     box-sizing: border-box;
