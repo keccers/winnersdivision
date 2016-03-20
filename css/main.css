@@ -125,6 +125,7 @@ body {
 
 #mce-EMAIL {
     border: 4px solid #000;
+    border-radius: 0;
     height: 30px;
     display: inline;
     letter-spacing: 1px;
