@@ -139,7 +139,7 @@ body {
 
 #mc-embedded-subscribe {
     background-color: #000;
-    border: none;
+    border: 0;
     color: #fff;
     display: inline;
     font-weight: bold;
@@ -148,6 +148,9 @@ body {
     margin-top: 1px;
     padding: 5px 0;
     width: 20%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
 }
 
 .social {
