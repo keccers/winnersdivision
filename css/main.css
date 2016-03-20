@@ -126,11 +126,14 @@ body {
 #mce-EMAIL {
     border: 3.5px solid #000;
     border-radius: 0;
-    height: 30px;
+    height: 40px;
     display: inline;
     letter-spacing: 1px;
     margin-right: -5px;
     width: 70%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
 }
 
 #mc-embedded-subscribe {
