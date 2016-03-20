@@ -109,7 +109,7 @@ body {
     max-width: 125px;
 }
 
-#email-signup {
+#mc_embed_signup {
     display: block;
     margin: 50px auto;
     text-transform: uppercase;
@@ -117,14 +117,14 @@ body {
     min-width: none;
 }
 
-#email-signup form {
+#mc_embed_signup form {
     font-size: .7em;
     margin: 0;
     padding: 0;
 }
 
-#email-input {
-    border: 2.5px solid #000;
+#mce-EMAIL {
+    border: 4px solid #000;
     height: 30px;
     display: inline;
     letter-spacing: 1px;
@@ -132,13 +132,13 @@ body {
     width: 70%;
 }
 
-#submit-button {
+#mc-embedded-subscribe {
     background-color: #000;
     border: none;
     color: #fff;
     display: inline;
     font-weight: bold;
-    height: 41px;
+    height: 40px;
     letter-spacing: 1px;
     padding: 5px 0;
     width: 20%;
@@ -146,7 +146,7 @@ body {
 
 .social {
     margin: 0 20px;
-    max-width: 40px;
+    max-width: 30px;
 }
 
 #contact-email {
@@ -200,18 +200,18 @@ input[type="submit"] {
     INTERMEDIATE: Email Sign-Up Form
    ============ */
 
-   #email-input {
+   #mce-EMAIL {
         border: 4px solid #000;
         width: 70%;
     }
 
-    #email-signup {
+    #mc_embed_signup {
         display: block;
         width: 40%;
         min-width: 395px;
     }
 
-    .submit-button {
+    #mc-embedded-subscribe {
         height: 40px;
     }
 
